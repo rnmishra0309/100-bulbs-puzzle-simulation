@@ -11,3 +11,13 @@
 .section__margin {
   margin-top: 2rem;
 }
+
+@media screen and (max-width: 490px) {
+  .section__padding {
+    padding: 1rem 2rem;
+  }
+
+  .section__margin {
+    margin-top: 1rem;
+  }
+}

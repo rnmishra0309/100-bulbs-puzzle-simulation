@@ -15,7 +15,7 @@
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
-     margin-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
 .puzzle__contents-header h1 {
@@ -57,7 +57,22 @@
 }
 
 @media screen and (max-width: 490px) {
+
+    .puzzle__contents {
+        padding: 0rem 2rem;
+
+    }
+
     .puzzle__contents-header {
         flex-direction: column;
+    }
+
+    .puzzle__contents-header h1 {
+        font-size: 25px;
+    }
+
+    .puzzle__contents-header button {
+        flex: auto;
+        width: 100%;
     }
 }

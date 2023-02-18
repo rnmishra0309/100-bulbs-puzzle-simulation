@@ -19,7 +19,7 @@ const Windows = ({ maxValue, bulbIndexList }) => {
       <Grid
         container
         spacing={{ xs: 2, md: 3 }}
-        columns={{ xs: 4, sm: 10, md: 20 }}
+        columns={{ xs: 10, sm: 20, md: 20 }}
       >
         {Array.from(Array(maxValue)).map((_, index) => (
           <Grid item xs={2} key={index}>
