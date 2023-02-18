@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/100-bulbs-puzzle-simulation/static/css/main.e6b5c507.css",
-    "main.js": "/100-bulbs-puzzle-simulation/static/js/main.dc39edeb.js",
+    "main.css": "/100-bulbs-puzzle-simulation/static/css/main.ce3825db.css",
+    "main.js": "/100-bulbs-puzzle-simulation/static/js/main.a433a170.js",
     "index.html": "/100-bulbs-puzzle-simulation/index.html",
-    "main.e6b5c507.css.map": "/100-bulbs-puzzle-simulation/static/css/main.e6b5c507.css.map",
-    "main.dc39edeb.js.map": "/100-bulbs-puzzle-simulation/static/js/main.dc39edeb.js.map"
+    "main.ce3825db.css.map": "/100-bulbs-puzzle-simulation/static/css/main.ce3825db.css.map",
+    "main.a433a170.js.map": "/100-bulbs-puzzle-simulation/static/js/main.a433a170.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6b5c507.css",
-    "static/js/main.dc39edeb.js"
+    "static/css/main.ce3825db.css",
+    "static/js/main.a433a170.js"
   ]
 }
